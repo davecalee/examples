@@ -1,2 +1,2 @@
-# examples
-sandbox for examples
+# Some coding examples in R
+Repository for showcasing Git and R
