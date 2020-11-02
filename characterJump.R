@@ -21,7 +21,9 @@ characterJump <- function(jump_n, road_arr){
 
 ## test 1
 ## characterJump(3, c(0,1,0,0,0,1,0))
+## returns TRUE
 
 
 ## test 2
 ## characterJump(4, c(0,1,1,0,1,0,0,0,0))
+## returns FALSE
